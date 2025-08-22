@@ -11,7 +11,7 @@ FastReader is a high-performance Go program designed for processing very large t
 - **Auto Indexing**: Automatic .frc index file generation and management
 - **Fast Statistics**: Quick file line count
 
-## Performance
+## File Performance
 
 ```
 8G csv file: about 4.5s
